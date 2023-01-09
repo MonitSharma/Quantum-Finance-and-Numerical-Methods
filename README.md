@@ -107,3 +107,43 @@ This folder contains a collection of case studies demonstrating the application 
 To make the most of these case studies, you should have a strong foundation in Python programming and numerical methods. Familiarity with concepts such as linear algebra, optimization, and differential equations will be helpful.
 
 
+---------
+
+## [Quantum Finance](https://github.com/MonitSharma/Quantum-Finance-and-Numerical-Methods/tree/main/Quantum%20Finance)
+
+Welcome to the Quantum Finance repository! This repository contains a collection of materials related to the intersection of quantum computing and finance.
+
+![](https://platform.qureca.com/wp-content/uploads/2021/05/Quantum-Computing-For-Finance-1.png)
+
+Inside, you will find resources such as lecture notes, exercises, and projects that cover topics such as quantum algorithms for portfolio optimization, supply chain and option call price prediction, and the applications of quantum computing to financial risk analysis.
+
+Whether you are a finance professional, quantum computing enthusiast, or simply interested in the potential of this emerging field, this repository has something for you. With a focus on hands-on learning, you will have the opportunity to gain practical experience with tools such as Qiskit and TensorFlow Quantum, and apply these techniques to real-world financial data.
+
+I hope that these materials will provide you with a strong foundation in quantum finance and inspire you to continue learning and exploring this exciting field. Thank you for visiting, and happy learning!"
+
+---------
+
+## [Quantum Machine Learning in Finance](https://github.com/MonitSharma/Quantum-Finance-and-Numerical-Methods/tree/main/Quantum%20Machine%20Learning%20in%20Finance)
+
+The intersection of quantum computing, machine learning, and finance is a rapidly growing field with exciting potential for innovation and discovery. This repository is dedicated to providing materials and resources for learning about quantum machine learning in finance, including lecture notes, exercises, and projects.
+
+Inside, you will find a wide range of topics, from the basics of quantum computing and machine learning, to more advanced concepts such as quantum algorithms for financial prediction and quantum-enhanced feature extraction for trading strategies. With a focus on hands-on learning, you will have the opportunity to gain practical experience with tools such as Qiskit and TensorFlow Quantum, and apply these techniques to real-world financial data.
+
+Whether you are a finance professional looking to learn about the potential of quantum machine learning, or a machine learning practitioner interested in applying your skills to the finance industry, this repository has something for you. I hope that these materials will provide you with a strong foundation in quantum machine learning in finance and inspire you to continue learning and exploring this exciting field. Thank you for visiting, and happy learning!"
+
+
+
+------
+
+## [Quantum Use Cases](https://github.com/MonitSharma/Quantum-Finance-and-Numerical-Methods/tree/main/Quantum%20Use%20Cases)
+
+Welcome to the Real-World Use Cases in Finance Using Quantum Computing folder! This folder contains a collection of case studies demonstrating the application of quantum computing to solve real-world problems in finance.
+
+Inside, you will find a variety of case studies covering topics such as quantum algorithms for portfolio optimization, quantum machine learning for financial prediction, and the applications of quantum computing to financial risk analysis. Each case study includes detailed explanations and code examples to help you understand and replicate the results.
+
+
+
+
+
+
+
