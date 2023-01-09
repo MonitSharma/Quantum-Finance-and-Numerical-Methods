@@ -69,5 +69,22 @@ The **Foundation of Computational Economics** course is the perfect starting poi
 
 
 
-Whether you are new to economics or simply want to learn more about the intersection of computation and economics, this course is for you. With a combination of lectures, exercises, and projects, you will gain a strong foundation in computational economics and be well-prepared to move on to more advanced topics in the field
+Whether you are new to economics or simply want to learn more about the intersection of computation and economics, this course is for you. With a combination of lectures, exercises, and projects, you will gain a strong foundation in computational economics and be well-prepared to move on to more advanced topics in the field.
+
+
+
+[![](https://fedor.iskh.me/assets/img/github_logo.png)](https://github.com/fediskhakov/CompEcon)
+
+### [Open Course Repository](https://github.com/fediskhakov/CompEcon)
+
+
+[![](https://fedor.iskh.me/assets/img/binder_logo.png)](https://mybinder.org/v2/gh/fediskhakov/CompEcon/HEAD)
+
+### [Launch Course notebooks on Binder](https://mybinder.org/v2/gh/fediskhakov/CompEcon/HEAD)
+
+[![](https://fedor.iskh.me/assets/img/youtube_logo.png)](https://www.youtube.com/playlist?list=PLWs2dSJolpWKBCBPVymYBm0BM8VPksmLv)
+
+### [All course videos on one page](https://www.youtube.com/playlist?list=PLWs2dSJolpWKBCBPVymYBm0BM8VPksmLv)
+
+
 
