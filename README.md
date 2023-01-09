@@ -59,5 +59,15 @@ In addition to covering the basics of machine learning, this course will delve i
 Whether you are a financial analyst, data scientist, or simply curious about the intersection of machine learning and finance, this course has something for you. 
 
 
+---
 
+
+### [Foundations of Computational Economics](https://github.com/MonitSharma/Quantum-Finance-and-Numerical-Methods/blob/main/Computational%20Economics/README.md)
+
+
+The **Foundation of Computational Economics** course is the perfect starting point for students and professionals who want to learn how to use computational techniques to analyze and solve economic problems. With a focus on the basics, this course will introduce you to the fundamental concepts and tools used in computational economics, including programming languages such as Python and R, and techniques such as simulation and optimization.
+
+
+
+Whether you are new to economics or simply want to learn more about the intersection of computation and economics, this course is for you. With a combination of lectures, exercises, and projects, you will gain a strong foundation in computational economics and be well-prepared to move on to more advanced topics in the field
 
