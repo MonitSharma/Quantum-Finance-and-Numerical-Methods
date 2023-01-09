@@ -87,4 +87,23 @@ Whether you are new to economics or simply want to learn more about the intersec
 ### [All course videos on one page](https://www.youtube.com/playlist?list=PLWs2dSJolpWKBCBPVymYBm0BM8VPksmLv)
 
 
+---------
+
+## [JP Morgan Python training](https://github.com/MonitSharma/Quantum-Finance-and-Numerical-Methods/tree/main/JP%20Morgan%20Python%20Training)
+
+![](https://camo.githubusercontent.com/23d2429ae3232063b0d95bf9f06b13ad77656cd0b7ce3e0370c6ba234e64caf5/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f612f61662f4a5f505f4d6f7267616e5f4c6f676f5f323030385f312e7376672f3132383070782d4a5f505f4d6f7267616e5f4c6f676f5f323030385f312e7376672e706e67)
+
+
+This Python training is for JPMorgan business analysts and traders, as well as select clients. This course is designed to be an introduction to numerical computing and data visualization in Python. It is not designed to be a complete course in Computer Science or programming, but rather a motivational demonstration of how relatively complex topics can be accessible even to those without formal progamming backgrounds.
+
+
+---------
+
+## [Classical Use Cases](https://github.com/MonitSharma/Quantum-Finance-and-Numerical-Methods/tree/main/Classical%20Use%20Cases)
+
+This folder contains a collection of case studies demonstrating the application of Python programming and numerical methods to solve real-world problems of finance and supply chain.
+
+
+To make the most of these case studies, you should have a strong foundation in Python programming and numerical methods. Familiarity with concepts such as linear algebra, optimization, and differential equations will be helpful.
+
 
